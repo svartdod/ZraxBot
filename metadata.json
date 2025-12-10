@@ -1,0 +1,5 @@
+{
+  "name": "ZraxBot",
+  "description": "A comprehensive data preparation and LLM prototyping environment. Ingest files, clean text, visualize chunking strategies, and test RAG performance with Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
